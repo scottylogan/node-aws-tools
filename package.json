@@ -1,0 +1,20 @@
+{
+  "name": "node-aws-tools",
+  "version": "0.1.0",
+  "description": "CLI tools for working with AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "cli"
+  ],
+  "author": "Scotty Logan <swl@stanford.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1.28",
+    "chalk": "^1.0.0",
+    "sprintf-js": "^1.0.2"
+  }
+}
